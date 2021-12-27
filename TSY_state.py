@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jul  6 10:59:46 2021
-
-@author: Anshumaan Gandhi
+@author: Abhijay Shukla | Anshumaan Gandhi | Mehul Mehta | Sid Joardar
 """
 
 import pandas as pd
